@@ -1,5 +1,7 @@
 # Atividade 01 – Frontend Web
 
+# Professor: Genivaldo Carlos da Silva
+
 ## 📚 Sobre a Atividade
 
 Esta atividade tem como objetivo aplicar os conhecimentos de **HTML5 e desenvolvimento Frontend Web** por meio da criação de páginas e sistemas web.
