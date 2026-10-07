@@ -1,6 +1,6 @@
 # Atividade 01 – Frontend Web
 
-### Professor: Genivaldo Carlos da Silva
+### Professor: Genivaldo Carlos da Silva - 23/09/2026
 
 ## 📚 Sobre a Atividade
 
